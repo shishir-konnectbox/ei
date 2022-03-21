@@ -1,0 +1,16 @@
+.footerMain{
+    background-color: #fff;
+}
+
+li{
+    list-style: none;
+    text-align: left;
+    line-height: 32px;
+    
+}
+li >a{
+    color: #555555;
+}
+li >a:hover{
+    color: #b91e1e;
+}

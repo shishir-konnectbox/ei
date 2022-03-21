@@ -1,0 +1,38 @@
+.headerLogo{
+    height:46px;
+    width:auto;
+    margin:20px;
+}
+
+.dialMe{
+   border: 0.5px solid #b03939;
+   color:#464646 !important;
+   border-radius: 4px;
+}
+.navButton{
+    background-color: #b91e1e;
+    border-radius: 50px;
+}
+.btnContact{
+    color: #fff !important;
+    padding:10px 20px !important;
+}
+.btnContact:hover{
+    color: #b91e1e !important;
+    background-color: #fff;
+    border: 0.5px solid #b03939;
+    border-radius: 50px;
+
+
+}
+.nav-item{
+    margin-right: 32px;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+color: #b91e1e !important;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #b91e1e !important;
+}
+
+
